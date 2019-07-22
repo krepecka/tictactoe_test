@@ -1,0 +1,24 @@
+Užduotis: kryžiukai-nuliukai
+
+
+Reikalavimai:
+	1. Žaidžia tikras žaidėjas prieš AI/bot'ą (tavo sukurtą, nebūtinai patį protingiausią).
+	2. Dabartinė lentos būsena yra vizualiai matoma.
+	3. Rodoma, kieno eilė daryti ėjimą.
+	4. Žaidėjas gali pasirinkti, kurioje pusėje nori žaisti (kryžiukų ar nuliukų).
+	5. Kryžiukai pradeda pirmi.
+	6. Pasibaigus žaidimui nurodoma kuris žaidėjas laimėjo.
+	7. Žaidimo eigoje galioja visos įprastos kryžiukų-nuliukų taisyklės.
+
+Bonus reikalavimai:
+	8. Kryžiukų nuliukų AI/Bot'as simuluoja galvojimo procesą. 
+	9. Yra galimybė matyti praeitų žaidimų istoriją.
+	10. Jei žaidimas nebaigtas, perkrovus naršyklės langą (F5), žaidimo būsena išlaikoma.
+
+Nefunkciniai reikalavimai:
+	- Programa parašyta naudojant frontend technologijas (React, Angular, Vue, jquery)
+	- Visas reikalingas vykdymui reikalingas kodas patalpintas viešai prieinamoje repo (pvz.: github)
+
+---------------------------------------------
+test drive:
+įgyvendinta 5. 6. 7. per 100 minučių.
